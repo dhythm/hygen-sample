@@ -10,5 +10,5 @@ npx hygen init self
 ## Getting Started
 
 ```sh
-
+npm run fc:new
 ```
